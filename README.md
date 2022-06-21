@@ -8,7 +8,7 @@ Communicating between parent and child component
 The project Template can be used to build bigger projects
 
 Live Application URL
-https://aditya-sridhar.github.io/simple-reactjs-app
+https://aquamarine-kelpie-97e9d7.netlify.app/
 This URL has the application deployed in
 
 Prerequisites
