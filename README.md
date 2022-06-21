@@ -3,8 +3,11 @@
 This Project is a Simple ReactJS Project which demonstrates the following
 
 Creating a Component in React
+
 Using state and props in React
+
 Communicating between parent and child component
+
 The project Template can be used to build bigger projects
 
 Live Application URL
